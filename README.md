@@ -1,33 +1,12 @@
-# 🧬 SYSTEM PROFILE
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:001B00&height=220&section=header&text=itsprem404&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=35"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Initializing+Prem's+System...;Computer+Science+Student;Software+Engineer+in+Training;Java+%7C+DSA+%7C+Full+Stack;Exploring+the+Digital+World;Code.+Break.+Build.+Repeat."/>
-
-</div>
+# 💫 About Me:
+## 👋 Hi, I'm Prem<br><br>A Computer Science student passionate about software development and technology.
 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=itsprem404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=itsprem404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsprem404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 👾 USER INFORMATION
-
-```yaml
-name: Prem
-alias: itsprem404
-role: Computer Science Student
-status: Learning Mode
-mission: Master Computer Science
-current_focus:
-  - Java
-  - Data Structures & Algorithms
-  - Full Stack Development
-  - Software Engineering
-
-mindset:
-  - Build Systems
-  - Solve Problems
-  - Explore Technology
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
