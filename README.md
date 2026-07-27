@@ -7,15 +7,27 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=itsprem404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=200&section=header&text=Prem%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br/>
 
-![](https://streak-stats.demolab.com/?user=itsprem404&theme=dark&hide_border=false)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Developer+in+Progress;Java+%7C+DSA+%7C+Full+Stack;Building+the+Future+with+Code"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.shion.dev/api?username=itsprem404&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsprem404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=itsprem404&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsprem404&theme=tokyonight&hide_border=true&layout=compact"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=itsprem404&label=PROFILE+VISITORS&color=00F5FF&style=for-the-badge"/>
 
 </div>
 
