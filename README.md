@@ -7,17 +7,17 @@
 <div align="center">
   <!-- Dynamic Animated Typing Header -->
   <a href="https://github.com/itsprem404">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&height=50&lines=System.out.println(%22Hello%2C+World!%22);;Building+next-gen+software...;git+commit+-m+%22Stay+Awesome%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&height=50&lines=Prem;Building+next-gen+software...;git+commit+-m+%22Stay+Awesome%22" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
-  <!-- Terminal Style Stats -->
+  <!-- Your Original Transparent Stats Cards -->
   <a href="https://github.com/itsprem404">
-    <img height="185" src="https://github-readme-stats.shion.dev/api?username=itsprem404&theme=terminal&show_icons=true&hide_border=true&count_private=true" alt="Prem's GitHub Stats" />
+    <img height="185" src="https://github-readme-stats.shion.dev/api?username=itsprem404&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="itsprem404's GitHub Stats" />
   </a>
   <a href="https://github.com/itsprem404">
-    <img height="185" src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsprem404&theme=terminal&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+    <img height="185" src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsprem404&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="itsprem404's Top Languages" />
   </a>
 
   <br /><br />
