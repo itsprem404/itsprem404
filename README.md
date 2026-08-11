@@ -1,9 +1,5 @@
 # 💫 About Me:
-<!-- Dynamic Animated Typing Header -->
-<a href="https://github.com/itsprem404">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=800&height=50&lines=A+Computer+Science+student+learning+about+software+development+and+technology.;Code+-+Fail+-+Learn+-+Again;You+don't+need+to+be+perfect%2C+you+just+need+to+start." alt="Typing SVG" />
-</a>
-
+# A Computer Science student learning about software development and technology.
 <br /><br />
 
 # Tech Stack:
@@ -12,7 +8,11 @@
 
 # GitHub Stats:
 <div align="center">
-  
+  <!-- Dynamic Animated Typing Header -->
+<a href="https://github.com/itsprem404">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=800&height=50&lines=A+Computer+Science+student+learning+about+software+development+and+technology.;Code+-+Fail+-+Learn+-+Again;You+don't+need+to+be+perfect%2C+you+just+need+to+start." alt="Typing SVG" />
+</a>
+
 
   <!-- Your Original Transparent Stats Cards -->
   <a href="https://github.com/itsprem404">
