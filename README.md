@@ -6,16 +6,17 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-# GitHub Stats:
-<!-- Dynamic Animated Typing Header -->
-<a href="https://github.com/itsprem404">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=800&height=50&lines=Code+-+Fail+-+Learn+-+Again;You+don't+need+to+be+perfect%2C+you+just+need+to+start.;Turning+caffeine+into+code+and+ideas+into+reality.;Debugging+my+way+through+life+and+code." alt="Typing SVG" />
-</a>
+<div align="center">
+  # GitHub Stats
 
-<br /><br />
+  <!-- Dynamic Animated Typing Header -->
+  <a href="https://github.com/itsprem404">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=800&height=50&lines=Code+-+Fail+-+Learn+-+Again;You+don't+need+to+be+perfect%2C+you+just+need+to+start.;Turning+caffeine+into+code+and+ideas+into+reality.;Debugging+my+way+through+life+and+code." alt="Typing SVG" />
+  </a>
 
+  <br /><br />
 
-  <!-- Your Original Transparent Stats Cards -->
+  <!-- Transparent Stats Cards -->
   <a href="https://github.com/itsprem404">
     <img height="185" src="https://github-readme-stats.shion.dev/api?username=itsprem404&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="itsprem404's GitHub Stats" />
   </a>
